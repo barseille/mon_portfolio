@@ -77,6 +77,6 @@
         "online_link": "https://github.com/barseille/tournoi_echec_ponn_barseille.git",
         "technical_skills": "Utilisation avancée de Python pour la logique métier. Création et gestion d'une application web complète. Utilisation de la POO pour une structure de code modulaire. Application des directives PEP8 et utilisation de flake8. Sauvegarde et récupération des résultats des tournois avec JSON",
         "soft_skills": "Identification et résolution de problèmes complexes dans le développement. Documentation complète et instructions claires pour l'exécution du programme.",
-        "image": "media/jeux_dechec.png"
+        "image": "media/logo_python.png"
     }
 ]
