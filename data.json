@@ -1,82 +1,83 @@
 [
     {
-        "id": 8,
-        "title": "Designez une application Python adaptée aux besoins d'un client",
-        "description": "LearnHome, une association qui met en relation des enfants en difficulté scolaire avec des tuteurs bénévoles. Objectifs sont l'élaboration d'un cahier des charges contenant les spécifications fonctionnelles et techniques, ainsi qu'un diagramme de classes UML. Backlog Produit : Création d'un backlog produit contenant toutes les tâches liées aux fonctionnalités, y compris les user stories priorisées et estimées en temps de réalisation. Présentation du Projet : Préparation d'un support de présentation couvrant le contexte du projet, les fonctionnalités et les choix techniques.",
-        "technologies": "Adobe Creative Cloud, Trello, Gitmind",
-        "online_link": "https://github.com/barseille/learn_home_ponn_barseille",
-        "technical_skills": "Capacité à traduire les besoins du client en spécifications fonctionnelles et techniques claires. Utilisation de la nomenclature UML pour créer un diagramme de classes. Gestion de Projet Agile et coordination en utilisant des méthodologies agiles.",
-        "soft_skills": "Gestion d'une équipe de développement et coordination avec le client et le responsable interne. Présentation efficace du projet à différentes parties prenantes, y compris le client et le responsable. Compréhension profonde des besoins du client et planification détaillée du projet pour répondre à ces besoins.",
-        "image": "media/agile.png"
+      "id": 8,
+      "title": "Gestion de Projet Agile pour l'association LearnHome",
+      "description": "Ce projet m'a permis de plonger dans la gestion de projet Agile, de la création d'un cahier des charges jusqu'à la présentation finale. J'ai appris à élaborer des spécifications fonctionnelles et techniques, à créer un diagramme de classes UML et à gérer un backlog produit. Ce fut une expérience complète qui m'a donné une vue d'ensemble du cycle de vie d'un projet.",
+      "technologies": "Adobe Creative Cloud",
+      "online_link": "https://github.com/barseille/learn_home_ponn_barseille",
+      "technical_skills": "J'ai développé ma capacité à traduire les besoins du client en spécifications fonctionnelles et techniques claires. J'ai aussi appris à utiliser la nomenclature UML pour créer un diagramme de classes, ce qui m'a aidé à structurer le projet de manière efficace. Enfin, j'ai maîtrisé les bases de la gestion de projet Agile, ce qui m'a permis de coordonner l'équipe de manière efficace.",
+      "soft_skills": "Ce projet m'a appris à gérer une équipe de développement et à coordonner avec le client et le responsable interne. J'ai aussi amélioré mes compétences en présentation, ce qui m'a aidé à communiquer efficacement le contexte, les fonctionnalités et les choix techniques du projet à différentes parties prenantes.",
+      "image": "media/agile.png"
     },
     {
-        "id": 7,
-        "title": "Développement d'une Interface Utilisateur pour une Application Web Python avec JustStreamIt",
-        "description": "Création d'une application web pour l'association JustStreamIt, permettant de visualiser en temps réel un classement de films intéressants. L'interface est inspirée de Netflix et doit afficher différentes catégories de films, y compris les films les mieux notés, en récupérant les données depuis une API locale.",
-        "technologies": "HTML, CSS, JavaScript (Vanilla), API REST",
-        "online_link": "https://github.com/barseille/Ponn_Barseille_JustStreamIt",
-        "technical_skills": "Création de l'interface utilisateur en suivant une maquette spécifique, sans frameworks. Interaction avec une API : Utilisation de requêtes AJAX pour récupérer les données des films depuis l'API OCMovies. Utilisation de Vanilla JavaScript pour gérer les événements de la page web, y compris l'ouverture et la fermeture de fenêtres modales.",
-        "soft_skills": "Capacité à développer une interface utilisateur complexe en utilisant uniquement HTML, CSS et JavaScript, sans frameworks. Il a également mis en évidence des compétences en interaction avec une API et en gestion de projet",
-        "image": "media/netflix.png"
+      "id": 7,
+      "title": "Interaction avec une API REST pour le Développement d'une Interface Utilisateur avec JustStreamIt",
+      "description": "Ce projet m'a offert l'opportunité de créer une application web de A à Z. J'ai appris à concevoir une interface utilisateur inspirée de Netflix et à interagir avec une API locale pour afficher un classement de films en temps réel.",
+      "technologies": "HTML, CSS, JavaScript",
+      "online_link": "https://github.com/barseille/Ponn_Barseille_JustStreamIt",
+      "technical_skills": "J'ai développé mes compétences en HTML, CSS et Vanilla JavaScript en créant une interface utilisateur sans utiliser de frameworks. J'ai également appris à faire des requêtes AJAX pour récupérer des données depuis une API, ce qui m'a permis de comprendre comment fonctionnent les API REST.",
+      "soft_skills": "Ce projet m'a appris à gérer un projet web complet, de la conception à la mise en œuvre. J'ai également amélioré mes compétences en gestion de projet et en interaction avec des APIs, ce qui m'a donné une meilleure compréhension de comment les différentes parties d'une application web interagissent entre elles.",
+      "image": "media/netflix.png"
     },
     {
-        "id": 6,
-        "title": "Optimisation des Stratégies d'Investissement avec AlgoInvest&Trade",
-        "description": "Développement d'algorithmes pour la société financière AlgoInvest&Trade afin de maximiser les bénéfices des clients après deux ans d'investissement. Le projet comprend la création d'une solution de force brute, l'optimisation de cette solution, et un backtesting pour comparer les résultats avec les choix d'un expert",
-        "technologies": "Python",
-        "online_link": "https://github.com/barseille/ponn_barseille_algoInvest",
-        "technical_skills": "Conception et optimisation d'algorithmes pour résoudre un problème complexe d'investissement. Exploration et comparaison de données pour évaluer la précision et l'efficacité de l'algorithme. Analyse de la complexité temporelle et de la mémoire des algorithmes, utilisation de la notation Big-O.",
-        "soft_skills": "Ce projet met en évidence des compétences en communication et en collaboration, essentielles pour traduire les besoins commerciaux en solutions techniques.",
-        "image": "media/algorithme.png"
+      "id": 6,
+      "title": "Conception et Optimisation d'Algorithmes pour les Stratégies d'Investissement avec AlgoInvest&Trade",
+      "description": "Ce projet m'a permis de plonger dans le monde de la finance et de l'algorithmique. J'ai développé des algorithmes pour maximiser les bénéfices des clients sur une période de deux ans. J'ai également effectué un backtesting pour valider l'efficacité de mes algorithmes par rapport aux choix d'un expert en investissement.",
+      "technologies": "Python",
+      "online_link": "https://github.com/barseille/ponn_barseille_algoInvest",
+      "technical_skills": "J'ai acquis une solide compréhension de la conception et de l'optimisation d'algorithmes, y compris l'analyse de la complexité en temps et en espace. J'ai également appris à utiliser la notation Big-O pour évaluer la performance de mes algorithmes.",
+      "soft_skills": "Ce projet m'a enseigné l'importance de la communication et de la collaboration pour traduire des besoins commerciaux complexes en solutions techniques efficaces.",
+      "image": "media/algorithme.png"
     },
     {
-        "id": 5,
-        "title": "Développement d'une Application Web avec le Framework Django pour LITReview",
-        "description": "Développement d'une application web pour la startup LITReview, permettant à une communauté d'utilisateurs de consulter ou de solliciter des critiques de livres à la demande. L'application présente deux cas d'utilisation principaux : demander des critiques sur un livre ou un article particulier, et rechercher des articles et des livres intéressants à lire en se basant sur les critiques des autres.",
-        "technologies": "Python, Django, SQLite, GitHub",
-        "online_link": "https://github.com/barseille/LITReview",
-        "technical_skills": "Utilisation du framework Django, en suivant les exigences énoncées dans le cahier des charges et en respectant le schéma de la base de données fourni. Utilisation du langage de template Django pour créer une interface utilisateur correspondant aux wireframes fournis. Utilisation de SQLite pour la gestion de la base de données, avec intégration de quelques exemples d'utilisateurs et de messages.",
-        "soft_skills": "Capacité à ajouter des éléments créatifs dans la conception du site, en respectant les directives de l'UX designer, tout en apportant une touche personnelle. Travail en étroite collaboration avec le directeur technique et l'UX designer pour comprendre les besoins et les attentes du projet. Respect des exigences techniques, des wireframes et du schéma de la base de données, tout en ajoutant des éléments créatifs.",
-        "image": "media/django.png"
+      "id": 5,
+      "title": "Maîtrise du Framework Django dans le Développement d'une Application Web pour LITReview",
+      "description": "Ce projet m'a permis de me plonger dans le framework Django pour développer une application web pour la startup LITReview. L'application sert de plateforme pour que les utilisateurs puissent consulter ou demander des critiques de livres. J'ai appris à gérer deux cas d'utilisation principaux : demander des critiques et rechercher des articles et des livres basés sur les critiques des autres.",
+      "technologies": "Python, Django, SQLite",
+      "online_link": "https://github.com/barseille/LITReview",
+      "technical_skills": "J'ai acquis une solide compétence dans l'utilisation du framework Django, y compris le langage de template Django pour créer des interfaces utilisateur. J'ai également appris à utiliser SQLite pour la gestion de la base de données.",
+      "soft_skills": "Ce projet m'a formé aux bonnes pratiques de développement et à la sécurité dans le cadre d'un projet web. J'ai appris à suivre des directives de sécurité pour protéger les données des utilisateurs. En plus, j'ai appliqué les standards PEP8 pour un code propre et maintenable, ce qui facilite la collaboration et la revue de code.",
+      "image": "media/django.png"
     },
     {
-        "id": 4,
-        "title": "Tests Unitaire/Intégration/Performance sur Application de Réservation pour Compétitions",
-        "description": "Création d'une version allégée d'un système de réservation pour les organisateurs de compétitions locales et régionales. L'application permet aux clubs d'inscrire des athlètes aux compétitions, en utilisant un système de points pour acheter des places. Implémentation de tests unitaires, d'intégration et de performance, ainsi que la gestion des branches dans le repository.",
-        "technologies": "Python, Django, GitHub, pytest, Locust, Coverage",
-        "online_link": "https://github.com/barseille/Python_Testing",
-        "technical_skills": "Mise en œuvre de tests unitaires avec pytest pour vérifier la fonctionnalité de chaque composant individuel. Utilisation de tests d'intégration pour s'assurer que les différentes parties du système fonctionnent ensemble. Application de tests de performance avec Locust pour garantir des temps de chargement rapides et une expérience utilisateur fluide. Utilisation de Coverage pour mesurer la couverture des tests et atteindre un objectif minimum de 60% de couverture. Gestion des branches dans GitHub, y compris la création d'une branche spécifique pour la qualité (QA), pour assurer un développement cohérent et une révision du code efficace.",
-        "soft_skills": "Compréhension approfondie de l'importance des tests dans le cycle de développement. Capacité à créer et à exécuter des tests complexes pour assurer la qualité et la performance. Compréhension de la gestion des branches et de la création d'une branche QA pour un processus de révision du code structuré. Collaboration et communication efficaces avec les parties prenantes.",
-        "image": "media/pytest.png"
+      "id": 4,
+      "title": "Tests Unitaire/Intégration/Performance sur une Application de Réservation en ligne",
+      "description": "Création d'une version allégée d'un système de réservation pour les organisateurs de compétitions locales et régionales. L'application permet aux clubs d'inscrire des athlètes aux compétitions, en utilisant un système de points pour acheter des places. Implémentation de tests unitaires, d'intégration et de performance, ainsi que la gestion des branches dans le repository.",
+      "technologies": "Python, Django, GitHub, pytest, Locust, Coverage",
+      "online_link": "https://github.com/barseille/Python_Testing",
+      "technical_skills": "Mise en œuvre de tests unitaires avec pytest pour vérifier la fonctionnalité de chaque composant individuel. Utilisation de tests d'intégration pour s'assurer que les différentes parties du système fonctionnent ensemble. Application de tests de performance avec Locust pour garantir des temps de chargement rapides et une expérience utilisateur fluide. Utilisation de Coverage pour mesurer la couverture des tests et atteindre un objectif minimum de 60% de couverture. Gestion des branches dans GitHub, y compris la création d'une branche spécifique pour la qualité (QA), pour assurer un développement cohérent et une révision du code efficace.",
+      "soft_skills": "Compréhension approfondie de l'importance des tests dans le cycle de développement. Capacité à créer et à exécuter des tests complexes pour assurer la qualité et la performance. Compréhension de la gestion des branches et de la création d'une branche QA pour un processus de révision du code structuré. Collaboration et communication efficaces avec les parties prenantes.",
+      "image": "media/pytest.png"
     },
     {
-        "id": 3,
-        "title": "SoftDesk (Gestion de Projet Collaboratif) avec Django REST Framework",
-        "description": "SoftDesk est une plateforme de collaboration qui permet aux équipes de travailler ensemble sur des projets. Les utilisateurs peuvent créer des projets, assigner des tâches, et commenter les problèmes. Le système prend en compte les choix de confidentialité de chaque utilisateur et respecte les normes RGPD. Les projets peuvent être classés par type (back-end, front-end, etc...) et les tâches peuvent être priorisées et étiquetées.",
-        "technologies": "Python, Django, REST Framework, HTML, CSS, JavaScript",
-        "online_link": "https://github.com/barseille/ponn_barseille_SoftDesk",
-        "technical_skills": "Développement d'une API RESTful avec Django REST Framework. Gestion des utilisateurs et des permissions. Création d'une interface utilisateur avec HTML, CSS et JavaScript. Utilisation de modèles et de vues pour gérer les données. Utilisation de Postman pour tester les requêtes et générer un rapport.",
-        "soft_skills": "Compréhension des besoins des utilisateurs et mise en œuvre de solutions adaptées.",
-        "image": "media/django_rest.png"
+      "id": 3,
+      "title": "Expertise en Django REST Framework pour la Gestion de Projet Collaboratif SoftDesk",
+      "description": "SoftDesk est une plateforme de collaboration qui permet aux équipes de travailler ensemble sur des projets. J'ai appris à gérer des projets, assigner des tâches, et commenter les problèmes tout en respectant les normes RGPD et les choix de confidentialité de chaque utilisateur.",
+      "technologies": "Python, Django, REST Framework, HTML, CSS, JavaScript",
+      "online_link": "https://github.com/barseille/ponn_barseille_SoftDesk",
+      "technical_skills": "J'ai développé une API RESTful en utilisant Django REST Framework, ce qui m'a permis de maîtriser la gestion des utilisateurs et des permissions. J'ai également appris à gérer les relations ForeignKey en Django. J'ai créé une interface utilisateur en utilisant HTML, CSS, et JavaScript. J'ai utilisé Postman pour tester les requêtes et générer un rapport, ce qui m'a aidé à comprendre les subtilités de la gestion d'une API.",
+      "soft_skills": "Ce projet m'a enseigné l'importance de comprendre les besoins des utilisateurs pour mettre en œuvre des solutions adaptées. J'ai également appris à respecter les meilleures pratiques en matière de développement et de sécurité, y compris la gestion des permissions et des relations ForeignKey.",
+      "image": "media/django_rest.png"
     },
     {
-        "id": 2,
-        "title": "Analyse de marché avec l'Extraction de données sur le site Bookstoscrape.com",
-        "description": "Ce projet implique l'extraction d'informations détaillées sur les livres à partir du site Bookstoscrape.com, la transformation et le nettoyage de ces données, puis leur enregistrement dans des fichiers CSV. Ces fichiers sont organisés par catégories, rendant l'information facilement accessible et utilisable.",
-        "technologies": "Python, BeautifulSoup, Requests, CSV",
-        "online_link": "https://github.com/barseille/Ponn_Barseille_1_repo_03102022",
-        "technical_skills": "Mise en œuvre de techniques d'extraction de données web (pipeline ETL) avec Python. Transformation et nettoyage des données en utilisant des bibliothèques Python spécialisées. Création de fichiers CSV structurés pour une analyse facile et rapide.",
-        "soft_skills": "Comprendre comment un site web est construit. Trouver des solutions aux problèmes rencontrés lors de la recherche d'informations. Gérer et organiser une grande quantité d'informations.",
-        "image": "media/bookstoscrape.png"
+      "id": 2,
+      "title": "Expertise en Web Scraping et Analyse de Marché avec Bookstoscrape.com",
+      "description": "Dans ce projet, j'ai acquis une bonne expérience en extraction de données web. J'ai utilisé Python pour extraire des informations détaillées sur les livres à partir du site Bookstoscrape.com. J'ai ensuite transformé et nettoyé ces données avant de les enregistrer dans des fichiers CSV organisés par catégories.",
+      "technologies": "Python, BeautifulSoup, Requests, CSV",
+      "online_link": "https://github.com/barseille/Ponn_Barseille_1_repo_03102022",
+      "technical_skills": "J'ai maîtrisé les techniques d'extraction de données web en utilisant un pipeline ETL avec Python. J'ai également appris à transformer et nettoyer les données en utilisant des bibliothèques Python spécialisées comme BeautifulSoup et Requests. J'ai créé des fichiers CSV structurés pour rendre l'information facilement accessible et utilisable pour des analyses futures.",
+      "soft_skills": "Ce projet m'a appris à comprendre la structure d'un site web et à trouver des solutions créatives aux défis rencontrés lors de l'extraction de données. J'ai également développé mes compétences en gestion de l'information en organisant une grande quantité de données de manière efficace.",
+      "image": "media/bookstoscrape.png"
     },
     {
-        "id": 1,
-        "title": "Tournoi d'échecs avec la Programmation Orientée Objet et le design pattern MVC",
-        "description": "Ce projet est une application de gestion de tournois d'échecs, permettant de créer des joueurs, des tournois, des rounds et des matchs, ce qui a rendu le code plus modulaire et facile à maintenir.",
-        "technologies": "Python, Django, JSON, POO, MVC, HTML, CSS, JavaScript, Bootstrap",
-        "online_link": "https://github.com/barseille/tournoi_echec_ponn_barseille.git",
-        "technical_skills": "Utilisation avancée de Python pour la logique métier. Création et gestion d'une application web complète. Utilisation de la POO pour une structure de code modulaire. Application des directives PEP8 et utilisation de flake8. Sauvegarde et récupération des résultats des tournois avec JSON",
-        "soft_skills": "Identification et résolution de problèmes complexes dans le développement. Documentation complète et instructions claires pour l'exécution du programme.",
-        "image": "media/logo_python.png"
+      "id": 1,
+      "title": "Maîtrise de la POO et du Design Pattern MVC dans la Gestion de Tournois d'Échecs",
+      "description": "Dans ce projet, j'ai développé une application complète pour la gestion de tournois d'échecs. J'ai utilisé la programmation orientée objet (POO) et le design pattern MVC pour rendre le code modulaire et facile à maintenir.",
+      "technologies": "Python, HTML, CSS, JavaScript, Bootstrap",
+      "online_link": "https://github.com/barseille/tournoi_echec_ponn_barseille.git",
+      "technical_skills": "J'ai acquis une expertise en Python, notamment dans l'application des principes de la POO et du design pattern MVC. J'ai également appliqué les directives PEP8 et utilisé flake8 pour assurer un code propre et bien structuré. J'ai utilisé JSON pour la sauvegarde et la récupération des données de tournoi.",
+      "soft_skills": "Ce projet m'a permis de développer mes compétences en résolution de problèmes complexes et en documentation. J'ai fourni des instructions claires pour l'exécution du programme, ce qui démontre mon attention aux détails et mon souci de la qualité du code.",
+      "image": "media/logo_python.png"
     }
-]
+  ]
+  

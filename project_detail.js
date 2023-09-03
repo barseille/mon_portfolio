@@ -45,3 +45,7 @@ async function loadProjectDetails() {
 
 // Appeler la fonction pour charger les détails du projet
 loadProjectDetails();
+
+// Mettre à jour l'année dans le pied de page
+const prenom = "Barseille"; // Ton prénom
+document.getElementById('footer-year').innerHTML = "&copy; " + new Date().getFullYear() + " - " + prenom + " Portfolio";

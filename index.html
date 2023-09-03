@@ -1,68 +1,108 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Détails des projets de Barseille, développeur web">
+    <meta name="keywords" content="Portfolio, Barseille, Projets, Développeur Web">
     <title>Mon Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-</head>
-<body>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    />
+    <link rel="icon" type="image/svg+xml" href="media/code-solid.svg" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    />
+  </head>
+  <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand p-color" href="#">Portfolio</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-
-                <li class="nav-item">
-                    <a class="nav-link p-color" href="#projets">Projets</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link p-color" href="#contact">Contact</a>
-                </li>
-
-            </ul>
-        </div>
+      <a class="navbar-brand p-color" href="#">Portfolio</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link p-color" href="#projets">Projets</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link p-color" href="#contact">Contact</a>
+          </li>
+        </ul>
+      </div>
     </nav>
 
     <main class="container">
-        <div class="row mt-4 d-flex align-items-center"> 
-            <div class="col-md-4">
-                <img src="media\photo_profil_rond_bsoAUr7.png" alt="photo de profil" class="img-fluid">
-            </div>
-            <div class="col-md-8">
-                <h1 id="prenom">Bonjour, je suis </h1>
-
-                <p>Depuis trois ans, je me suis lancé dans l'aventure du développement informatique. 
-                    En reconversion professionnelle, je suis encore en phase d'apprentissage, 
-                    mais ma détermination est forte. Avec une curiosité insatiable et une volonté de progresser chaque jour, 
-                    je poursuis mon chemin avec humilité et passion. La réussite n'est pas un sprint, c'est un marathon, 
-                    et je suis prêt pour la course !</p>
-            </div>
+      <div class="row mt-4 d-flex align-items-center">
+        <div class="col-md-4">
+          <img
+            src="media\photo_profil_rond_bsoAUr7.png"
+            alt="photo de profil"
+            class="img-fluid"
+            loading="lazy"
+          />
         </div>
+        <div class="col-md-8">
+          <h1 id="prenom">Bonjour, je suis </h1>
 
-        <section id="projets" class="mt-5">
-            <h2 class="display-4 text-primary border-bottom pb-2">Projets</h2>
-            <div id="project-list"></div>
-        </section>
+          <p>
+            Depuis trois ans, je suis immergé dans le passionnant univers du développement informatique. 
+            En reconversion professionnelle, je suis constamment en phase d'apprentissage, mais ma détermination est inébranlable. 
+            Doté d'une curiosité insatiable et d'une volonté constante de progresser, je poursuis mon parcours avec humilité et passion. 
+            Fort de formations récentes et de projets concrets, je suis prêt à mettre mes compétences à votre service.
+          </p>
+        </div>
+      </div>
 
-        <section id="contact" class="mt-5">
-            <h2 class="display-4 text-primary border-bottom pb-2">Contact</h2>
-            <p>Vous pouvez me contacter directement par e-mail à l'adresse suivante : <a href="mailto:ponn.barseille@gmail.com">ponn.barseille@gmail.com</a></p>
-        </section>
+      <section id="projets" class="mt-5">
+        <h2 class="display-4 text-primary border-bottom pb-2">Projets</h2>
+        <div id="project-list"></div>
+      </section>
+
+      <section id="contact" class="mt-5">
+        <h2 class="display-4 text-primary border-bottom pb-2">Contact</h2>
+        <p>Vous pouvez me contacter directement par e-mail en <a href="mailto:ponn.barseille@gmail.com">cliquant ici</a>.</p>
+    </section>
+    
     </main>
 
     <footer class="text-center mt-5">
-        <p id="footer-year">&copy; - Barseille Portfolio</p>
+      <p id="footer-year">&copy; - Barseille Portfolio</p>
+      <a href="https://www.linkedin.com/in/barseille-ponn/" target="_blank"
+        ><i class="fab fa-linkedin fa-3x"></i
+      ></a>
+      <a href="https://github.com/barseille" target="_blank"
+        ><i class="fab fa-github fa-3x"></i
+      ></a>
     </footer>
-    
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <script src="projects.js"></script>
     <script src="main.js"></script>
-</body>
+
+    <!-- Smooth Scroll -->
+    <script>
+      document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
+        anchor.addEventListener("click", function (e) {
+          e.preventDefault();
+          document.querySelector(this.getAttribute("href")).scrollIntoView({
+            behavior: "smooth",
+          });
+        });
+      });
+    </script>
+  </body>
 </html>
