@@ -113,9 +113,9 @@
     "id": 3,
     "title": "Expertise en Django REST Framework pour la Gestion de Projet Collaboratif SoftDesk",
     "description": "SoftDesk est une plateforme de collaboration qui permet aux équipes de travailler ensemble sur des projets. J'ai appris à gérer des projets, assigner des tâches, et commenter les problèmes tout en respectant les normes RGPD et les choix de confidentialité de chaque utilisateur.",
-    "technologies": "Python, Django, REST Framework, HTML, CSS, JavaScript",
+    "technologies": "Python, Django, REST Framework",
     "online_link": "https://github.com/barseille/ponn_barseille_SoftDesk",
-    "technical_skills": "J'ai développé une API RESTful en utilisant Django REST Framework, ce qui m'a permis de maîtriser la gestion des utilisateurs et des permissions. J'ai également appris à gérer les relations ForeignKey en Django. J'ai créé une interface utilisateur en utilisant HTML, CSS, et JavaScript. J'ai utilisé Postman pour tester les requêtes et générer un rapport, ce qui m'a aidé à comprendre les subtilités de la gestion d'une API.",
+    "technical_skills": "J'ai développé une API RESTful en utilisant Django REST Framework, ce qui m'a permis de maîtriser la gestion des utilisateurs et des permissions. J'ai également appris à gérer les relations ForeignKey en Django. J'ai utilisé Postman pour tester les requêtes et générer un rapport, ce qui m'a aidé à comprendre les subtilités de la gestion d'une API.",
     "soft_skills": "Ce projet m'a enseigné l'importance de comprendre les besoins des utilisateurs pour mettre en œuvre des solutions adaptées. J'ai également appris à respecter les meilleures pratiques en matière de développement et de sécurité, y compris la gestion des permissions et des relations ForeignKey.",
     "image": "media/django_rest.png"
   },
