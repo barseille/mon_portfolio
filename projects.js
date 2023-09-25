@@ -35,9 +35,9 @@ document.addEventListener("DOMContentLoaded", async function() {
             }
 
             const projectCard = `
-                <div class="row mt-4">
-                    <div class="col-md-4">
-                        <img src="${project.image}" alt="${project.title}" class="img-fluid profile-image">
+                <div class="row mt-4 project-card ">
+                    <div class="col-md-4 project-image-container">
+                        <img src="${project.image}" alt="${project.title}" class="img-fluid profile-image project-image ">
                     </div>
                     <div class="col-md-8">
                         <h3>${project.title}</h3>
