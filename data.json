@@ -133,7 +133,7 @@
     "id": 1,
     "title": "Maîtrise de la POO et du Design Pattern MVC dans la Gestion de Tournois d'Échecs",
     "description": "Dans ce projet, j'ai développé une application complète pour la gestion de tournois d'échecs. J'ai utilisé la programmation orientée objet (POO) et le design pattern MVC pour rendre le code modulaire et facile à maintenir.",
-    "technologies": "Python, HTML, CSS, JavaScript, Bootstrap",
+    "technologies": "Python",
     "online_link": "https://github.com/barseille/tournoi_echec_ponn_barseille.git",
     "technical_skills": "J'ai acquis une expertise en Python, notamment dans l'application des principes de la POO et du design pattern MVC. J'ai également appliqué les directives PEP8 et utilisé flake8 pour assurer un code propre et bien structuré. J'ai utilisé JSON pour la sauvegarde et la récupération des données de tournoi.",
     "soft_skills": "Ce projet m'a permis de développer mes compétences en résolution de problèmes complexes et en documentation. J'ai fourni des instructions claires pour l'exécution du programme, ce qui démontre mon attention aux détails et mon souci de la qualité du code.",
