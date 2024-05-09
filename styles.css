@@ -1,9 +1,11 @@
 .profile-image {
   border-radius: 10px;
 }
+
 .fab.fa-github {
   color: black;
 }
+
 footer a {
   margin: 15px;
 }
@@ -11,6 +13,7 @@ footer a {
 footer i {
   margin: 30px;
 }
+
 #project-list {
   display: flex;
   flex-wrap: wrap;
@@ -27,14 +30,23 @@ footer i {
   align-items: center;
   transition: all 0.3s ease;
 }
+
 .project-card:hover {
-    transform: translateY(-10px); /* Déplace le bloc vers le haut de 10px */
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.7); /* Ombre un peu plus grande */
-  }
+  transform: translateY(-10px); /* Déplace le bloc vers le haut de 10px */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.7); /* Ombre un peu plus grande */
+}
 
 .project-image-container {
   display: flex;
   justify-content: center; 
+  margin-bottom: 20px; /* Marges ajoutées pour assurer l'alignement et l'espacement */
+}
+
+.project-image {
+  height: 100%;        /* Hauteur fixe pour toutes les images */
+  width: 100%;          /* Largeur ajustée à la largeur du conteneur */
+  object-fit: cover;    /* Assure que l'image couvre la zone définie sans déformation */
+  
 }
 
 /* Pour les écrans de taille moyenne */
@@ -43,11 +55,6 @@ footer i {
     min-width: calc(100% - 20px);
     margin: 10px;
   }
-  .project-image-container {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px; 
-  }
 }
 
 /* Pour les petits écrans */
@@ -55,11 +62,4 @@ footer i {
   .project-card {
     min-width: calc(100% - 20px);
   }
-}
-
-.project-image {
-  max-width: 100%;
-  height: auto;
-  max-height: 200px; 
-  object-fit: cover; 
 }

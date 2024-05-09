@@ -7,7 +7,7 @@
     "online_link": "https://github.com/barseille/BarseillePonn_2_24092021",
     "technical_skills": "Création d'une interface utilisateur en utilisant HTML pour une structure solide. Mise en forme et stylisation du site avec CSS pour une navigation fluide et esthétique. Conception responsive du site pour assurer une utilisation optimale sur divers appareils.",
     "soft_skills": "Résolution de problèmes, attention aux détails, adaptabilité.",
-    "image": "media/p2.png"
+    "image": "media/2.png"
   },
   {
     "id": 13,
@@ -17,7 +17,7 @@
     "online_link": "https://github.com/barseille/BarseillePonn_3_11112021",
     "technical_skills": "Développement front-end avec HTML et CSS pour créer des animations visuellement attrayantes. Conception mobile-first avec une attention particulière à la réactivité et à l'expérience utilisateur. Validation du code selon les normes W3C pour assurer la compatibilité et l'accessibilité.",
     "soft_skills": "Créativité, attention aux détails, capacité à travailler sous pression",
-    "image": "media/p3.png"
+    "image": "media/3.png"
   },
   {
     "id": 12,
@@ -27,7 +27,7 @@
     "online_link": "https://github.com/barseille/P4_Ponn_Barseille",
     "technical_skills": "Analyse SEO avec des outils spécialisés. Optimisation du code HTML et CSS. Utilisation d'outils de mesure pour optimiser la performance. Mise en conformité du site avec les standards W3C pour l'accessibilité.",
     "soft_skills": "Analyse critique, prise de décision basée sur les données, respect des meilleures pratiques de l'industrie",
-    "image": "media/p4.png"
+    "image": "media/4.png"
   },
   {
     "id": 11,
@@ -37,7 +37,7 @@
     "online_link": "https://github.com/barseille/P5_Ponn_Barseille",
     "technical_skills": "Intégration dynamique des éléments de l'API en JavaScript pur. Mise en place d'un plan de test d'acceptation. Utilisation de code HTML et CSS déjà en place pour l'intégration dynamique.",
     "soft_skills": "Gestion de projet en autonomie, résolution de problèmes complexes, et prise d'initiative",
-    "image": "media/p5.png"
+    "image": "media/5.png"
   },
   {
     "id": 10,
@@ -47,7 +47,7 @@
     "online_link": "https://github.com/barseille/P6_barseille_ponn_code",
     "technical_skills": "Création d'une API sécurisée en Node.js et Express. Mise en œuvre de pratiques de code sécurisées pour protéger les mots de passe et les données. Stockage de données sécurisé avec MongoDB Atlas.",
     "soft_skills": "Gestion autonome du projet, prise de décisions éclairées en matière de sécurité, capacité à résoudre des problèmes complexes de manière indépendante, sens aigu de l'organisation et de la planification.",
-    "image": "media/p6.png"
+    "image": "media/6.png"
   },
   {
     "id": 9,
@@ -57,7 +57,7 @@
     "online_link": "https://github.com/barseille/ponn_barseille_7_code_010422",
     "technical_skills": "Authentification et gestion de session avec Node.js. Stockage de données sécurisé avec MySQL. Développement front-end avec Vue.js en respectant les standards WCAG.",
     "soft_skills": "Gestion de projet, prise de décisions techniques, résolution de problèmes complexes.",
-    "image": "media/p7.png"
+    "image": "media/7.png"
   },
   {
     "id": 8,
@@ -67,7 +67,7 @@
     "online_link": "https://github.com/barseille/learn_home_ponn_barseille",
     "technical_skills": "J'ai développé ma capacité à traduire les besoins du client en spécifications fonctionnelles et techniques claires. J'ai aussi appris à utiliser la nomenclature UML pour créer un diagramme de classes, ce qui m'a aidé à structurer le projet de manière efficace. Enfin, j'ai maîtrisé les bases de la gestion de projet Agile, ce qui m'a permis de coordonner l'équipe de manière efficace.",
     "soft_skills": "Ce projet m'a appris à gérer une équipe de développement et à coordonner avec le client et le responsable interne. J'ai aussi amélioré mes compétences en présentation, ce qui m'a aidé à communiquer efficacement le contexte, les fonctionnalités et les choix techniques du projet à différentes parties prenantes.",
-    "image": "media/pp3.png"
+    "image": "media/8.png"
   },
   {
     "id": 7,
@@ -77,7 +77,7 @@
     "online_link": "https://github.com/barseille/Ponn_Barseille_JustStreamIt",
     "technical_skills": "J'ai développé mes compétences en HTML, CSS et Vanilla JavaScript en créant une interface utilisateur sans utiliser de frameworks. J'ai également appris à faire des requêtes AJAX pour récupérer des données depuis une API, ce qui m'a permis de comprendre comment fonctionnent les API REST.",
     "soft_skills": "Ce projet m'a appris à gérer un projet web complet, de la conception à la mise en œuvre. J'ai également amélioré mes compétences en gestion de projet et en interaction avec des APIs, ce qui m'a donné une meilleure compréhension de comment les différentes parties d'une application web interagissent entre elles.",
-    "image": "media/pp6.png"
+    "image": "media/9.png"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
     "online_link": "https://github.com/barseille/ponn_barseille_algoInvest",
     "technical_skills": "J'ai acquis une solide compréhension de la conception et de l'optimisation d'algorithmes, y compris l'analyse de la complexité en temps et en espace. J'ai également appris à utiliser la notation Big-O pour évaluer la performance de mes algorithmes.",
     "soft_skills": "Ce projet m'a enseigné l'importance de la communication et de la collaboration pour traduire des besoins commerciaux complexes en solutions techniques efficaces.",
-    "image": "media/pp7.png"
+    "image": "media/10.png"
   },
   {
     "id": 5,
@@ -97,7 +97,7 @@
     "online_link": "https://github.com/barseille/LITReview",
     "technical_skills": "J'ai acquis une solide compétence dans l'utilisation du framework Django, y compris le langage de template Django pour créer des interfaces utilisateur. J'ai également appris à utiliser SQLite pour la gestion de la base de données.",
     "soft_skills": "Ce projet m'a formé aux bonnes pratiques de développement et à la sécurité dans le cadre d'un projet web. J'ai appris à suivre des directives de sécurité pour protéger les données des utilisateurs. En plus, j'ai appliqué les standards PEP8 pour un code propre et maintenable, ce qui facilite la collaboration et la revue de code.",
-    "image": "media/pp9.png"
+    "image": "media/11.png"
   },
   {
     "id": 4,
@@ -107,7 +107,7 @@
     "online_link": "https://github.com/barseille/Python_Testing",
     "technical_skills": "Mise en œuvre de tests unitaires avec pytest pour vérifier la fonctionnalité de chaque composant individuel. Utilisation de tests d'intégration pour s'assurer que les différentes parties du système fonctionnent ensemble. Application de tests de performance avec Locust pour garantir des temps de chargement rapides et une expérience utilisateur fluide. Utilisation de Coverage pour mesurer la couverture des tests et atteindre un objectif minimum de 60% de couverture. Gestion des branches dans GitHub, y compris la création d'une branche spécifique pour la qualité (QA), pour assurer un développement cohérent et une révision du code efficace.",
     "soft_skills": "Compréhension approfondie de l'importance des tests dans le cycle de développement. Capacité à créer et à exécuter des tests complexes pour assurer la qualité et la performance. Compréhension de la gestion des branches et de la création d'une branche QA pour un processus de révision du code structuré. Collaboration et communication efficaces avec les parties prenantes.",
-    "image": "media/pytest.png"
+    "image": "media/12.png"
   },
   {
     "id": 3,
@@ -117,7 +117,7 @@
     "online_link": "https://github.com/barseille/ponn_barseille_SoftDesk",
     "technical_skills": "J'ai développé une API RESTful en utilisant Django REST Framework, ce qui m'a permis de maîtriser la gestion des utilisateurs et des permissions. J'ai également appris à gérer les relations ForeignKey en Django. J'ai utilisé Postman pour tester les requêtes et générer un rapport, ce qui m'a aidé à comprendre les subtilités de la gestion d'une API.",
     "soft_skills": "Ce projet m'a enseigné l'importance de comprendre les besoins des utilisateurs pour mettre en œuvre des solutions adaptées. J'ai également appris à respecter les meilleures pratiques en matière de développement et de sécurité, y compris la gestion des permissions et des relations ForeignKey.",
-    "image": "media/django_rest.png"
+    "image": "media/13.png"
   },
   {
     "id": 2,
@@ -127,7 +127,7 @@
     "online_link": "https://github.com/barseille/Ponn_Barseille_1_repo_03102022",
     "technical_skills": "J'ai maîtrisé les techniques d'extraction de données web en utilisant un pipeline ETL avec Python. J'ai également appris à transformer et nettoyer les données en utilisant des bibliothèques Python spécialisées comme BeautifulSoup et Requests. J'ai créé des fichiers CSV structurés pour rendre l'information facilement accessible et utilisable pour des analyses futures.",
     "soft_skills": "Ce projet m'a appris à comprendre la structure d'un site web et à trouver des solutions créatives aux défis rencontrés lors de l'extraction de données. J'ai également développé mes compétences en gestion de l'information en organisant une grande quantité de données de manière efficace.",
-    "image": "media/pp2.png"
+    "image": "media/14.png"
   },
   {
     "id": 1,
@@ -137,7 +137,7 @@
     "online_link": "https://github.com/barseille/tournoi_echec_ponn_barseille.git",
     "technical_skills": "J'ai acquis une expertise en Python, notamment dans l'application des principes de la POO et du design pattern MVC. J'ai également appliqué les directives PEP8 et utilisé flake8 pour assurer un code propre et bien structuré. J'ai utilisé JSON pour la sauvegarde et la récupération des données de tournoi.",
     "soft_skills": "Ce projet m'a permis de développer mes compétences en résolution de problèmes complexes et en documentation. J'ai fourni des instructions claires pour l'exécution du programme, ce qui démontre mon attention aux détails et mon souci de la qualité du code.",
-    "image": "media/pp4.png"
+    "image": "media/15.png"
   },
   {
     "id": 0,
