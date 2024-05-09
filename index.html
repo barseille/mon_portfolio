@@ -40,7 +40,10 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link p-color" href="#projets">Projets</a>
+            <a class="nav-link p-color" href="#projets-personnels">Projets Personnels</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link p-color" href="#projets-academiques">Projets Académiques</a>
           </li>
           <li class="nav-item">
             <a class="nav-link p-color" href="#contact">Contact</a>
@@ -53,7 +56,7 @@
       <div class="row mt-4 d-flex align-items-center">
         <div class="col-md-4">
           <img
-            src="media\photo_profil_rond_bsoAUr7.png"
+            src="media/photo_profil_rond_bsoAUr7.png"
             alt="photo de profil"
             class="img-fluid"
             loading="lazy"
@@ -61,7 +64,6 @@
         </div>
         <div class="col-md-8">
           <h1 id="prenom">Salut, je suis</h1>
-
           <p>
             "Je suis un Développeur, animé par une passion pour l'innovation et
             la création de solutions web dynamiques. Mon parcours, bien que
@@ -74,15 +76,22 @@
           </p>
           <p>
             Pour en savoir plus sur mon parcours, vous pouvez
-            <a href="media/CV_2024-02-21_Barseille_Ponn.pdf" target="_blank">
-              consulter mon CV ici </a
-            >.
+            <a href="media/BP_cv_mai_2024_eng.pdf" target="_blank">
+              consulter mon CV ici
+            </a>.
           </p>
         </div>
       </div>
 
-      <section id="projets" class="mt-5">
-        <h2 class="display-4 text-primary border-bottom pb-2">Projets</h2>
+      <section id="projets-personnels" class="mt-5">
+        <h2 class="display-4 text-primary border-bottom pb-2">Projets Personnels</h2>
+        <div id="personal-project-list">
+          <!-- Intégration du projet Gestion Locative ici -->
+        </div>
+      </section>
+
+      <section id="projets-academiques" class="mt-5">
+        <h2 class="display-4 text-primary border-bottom pb-2">Projets Académiques</h2>
         <div id="project-list"></div>
       </section>
 
@@ -116,14 +125,47 @@
 
     <!-- Smooth Scroll -->
     <script>
-      document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
-        anchor.addEventListener("click", function (e) {
-          e.preventDefault();
-          document.querySelector(this.getAttribute("href")).scrollIntoView({
-            behavior: "smooth",
-          });
-        });
+      document.addEventListener('DOMContentLoaded', function() {
+        fetch('data.json')  // Assurez-vous que le chemin vers votre fichier JSON est correct
+          .then(response => response.json())
+          .then(data => {
+            const personalProjectList = document.getElementById('personal-project-list');
+            const projectList = document.getElementById('project-list');
+      
+            // Nettoyer les listes avant de les remplir
+            personalProjectList.innerHTML = '';
+            projectList.innerHTML = '';
+      
+            data.forEach(project => {
+              const projectHTML = `
+                <div class="card mb-3">
+                  <img class="card-img-top" src="${project.image}" alt="Image de ${project.title}">
+                  <div class="card-body">
+                    <h5 class="card-title">${project.title}</h5>
+                    <p class="card-text">${project.description}</p>
+                    <a href="${project.online_link}" class="btn btn-primary" target="_blank">Voir le projet</a>
+                  </div>
+                </div>
+              `;
+      
+              // Affichage de débogage
+              console.log(`Traitement du projet ID: ${project.id}`);
+      
+              // Si l'ID du projet est 0, c'est un projet personnel
+              if (project.id === 0) {
+                console.log(`Ajout d'un projet personnel: ${project.title}`);
+                personalProjectList.innerHTML += projectHTML;
+              } else {
+                // Sinon, c'est un projet académique
+                console.log(`Ajout d'un projet académique: ${project.title}`);
+                projectList.innerHTML += projectHTML;
+              }
+            });
+          })
+          .catch(error => console.error('Erreur lors du chargement des projets :', error));
       });
+      
+      
     </script>
   </body>
 </html>

@@ -138,5 +138,16 @@
     "technical_skills": "J'ai acquis une expertise en Python, notamment dans l'application des principes de la POO et du design pattern MVC. J'ai également appliqué les directives PEP8 et utilisé flake8 pour assurer un code propre et bien structuré. J'ai utilisé JSON pour la sauvegarde et la récupération des données de tournoi.",
     "soft_skills": "Ce projet m'a permis de développer mes compétences en résolution de problèmes complexes et en documentation. J'ai fourni des instructions claires pour l'exécution du programme, ce qui démontre mon attention aux détails et mon souci de la qualité du code.",
     "image": "media/pp4.png"
+  },
+  {
+    "id": 0,
+    "title": "Gestion Locative avec ANGKOR MANAGEMENT",
+    "description": "Ce projet Django est une solution de gestion locative en production pour ANGKOR MANAGEMENT, une entreprise de gestion immobilière au Cambodge. Il illustre mes compétences en développement backend, incluant la gestion de formulaires, la manipulation de bases de données, l'envoi d'emails, et l'internationalisation.",
+    "technologies": "Django, Python, PostgreSQL, HTML, CSS, TailwindCSS",
+    "online_link": "https://github.com/barseille/project_concierge.git",
+    "technical_skills": "Implémentation de formulaires pour la soumission de demandes de contact et la gestion des réponses. Gestion de contenu dynamique pour services, témoignages, FAQs, et informations d'entreprise. Internationalisation pour un public international. Configuration d'envoi d'emails automatiques pour les formulaires.",
+    "soft_skills": "Gestion de projet, adaptation à un environnement multiculturel, communication efficace, résolution de problèmes complexes.",
+    "image": "media/1.png"
   }
+  
 ]
